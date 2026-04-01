@@ -13,5 +13,5 @@ public class StudentIdCard {
     private String phoneNumber;
     private LocalDate validTill;
     private LocalDate issuedOn;
-    private String photoFileNAme;
+    private String photoFileName;
 }
