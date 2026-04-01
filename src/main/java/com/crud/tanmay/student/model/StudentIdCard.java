@@ -1,4 +1,4 @@
-package com.crud.vikas.student.model;
+package com.crud.tanmay.student.model;
 
 import java.time.LocalDate;
 
